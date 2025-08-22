@@ -1,0 +1,6 @@
+quarter	down	clock	def_score	off_score	defense	distance	offense	off_timeouts_remaining	def_timeouts_remaining	yards_to_goal_line	offensive_win_loss
+1	0	15:00	0	0	TXCU	0	CAST	3	3	65	L
+1	1	14:56	0	0	TXCU	10	CAST	3	3	89	L
+1	2	14:48	0	0	TXCU	10	CAST	3	3	89	L
+1	2	14:31	0	0	TXCU	13	CAST	3	3	92	L
+1	3	13:54	0	0	TXCU	13	CAST	3	3	92	L
